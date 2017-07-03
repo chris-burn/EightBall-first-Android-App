@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MagicEightBallFatherTedApp</string>
+    <string name="question">Ask Jack a Question</string>
+    <string name="shake">Shake Jack</string>
+</resources>
+
+    <!--can have any number of strings here and reuse through the app-->
